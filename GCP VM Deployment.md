@@ -14,7 +14,7 @@
     * Then choose the time zone([31]asia-southeast1-c)
 * Follow the instructions there if any & Now google cloud SDK is successfully installed in the MacOS.
 
-* Go to Google Cloud Home page. The default project name **My First Project** would be listed. Keep this or rename to **Custom Project Name**
+* Go to [Google Cloud Console](https://console.cloud.google.com) Home page. The default project name **My First Project** would be listed. Keep this or rename to **Custom Project Name**
 
 * From the Cloud Console, Choose **Deployment Manager** & Click **Deploy Marketplace Solution**
     * Search for Wordpress (preferrably one from Bitnami Stack).
