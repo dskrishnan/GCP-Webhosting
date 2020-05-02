@@ -150,3 +150,8 @@
 * First install `sudo apt install tasksel`
 * Then run `sudo apt install apache2`
 * Then run `sudo apt install php-curl php-gd php-mbstring php-xml php-xmlrpc` and follow the instructions.
+
+# Increase Memory Limit & File Upload Size
+* In the Cloud shell visit `cd /opt/bitnami/php/etc/`
+
+# This is to demo GitHub push from IDE
